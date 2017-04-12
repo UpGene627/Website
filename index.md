@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Hi Kachia!! HTML is basically me writing words that the internet can translate, if that made sense lol
+Testing the water for now
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
